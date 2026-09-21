@@ -1,0 +1,1 @@
+WasteWise AI is a functional educational prototype. The full presentation deck and prototype demonstration PDF were generated as part of the project submission package. The GitHub connector used for this repository supports UTF-8 repository files but does not expose a binary presentation-asset upload operation, so binary PPTX/PDF files cannot be committed through this connection.
